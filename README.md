@@ -1,0 +1,1 @@
+hi. this is something i made really quickly in one night because i was bored, its not very optimized at all and im still a beginner with godot so its not the craziest thing ever, its just conways game of life after all
